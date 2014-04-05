@@ -1,6 +1,6 @@
 // Frank Stella Black in Processing
 // Chuck McQuilkin
- 
+
 void setup()
 {
   size(400, 250);
